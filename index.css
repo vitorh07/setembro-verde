@@ -306,3 +306,13 @@ h2{
         width: 90%;
     }
 }
+
+@media (max-width: 475px){
+    .div3{
+        margin-top: -30vh;
+    }
+
+    .div4{
+        margin-top: -70vh;
+    }
+}
